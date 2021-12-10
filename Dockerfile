@@ -1,7 +1,7 @@
 FROM REBEL75/REBELSBOTS:latest
 
 #clonning repo 
-RUN git clone https://github.com/REBEL725/REBELUSERBOT.git /root/userbot
+RUN git clone https://github.com/Sanskari787898/RAJSHREEUSERBOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
