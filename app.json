@@ -121,12 +121,12 @@
     "RAJSHREE_SESSION": {
       "description": "create private group and added @MISS_QUEENS_BOT make admin then send /id tap to copy and paste  ",
       "value": "",
-      "required": True
+      "required": true
     },
     "COMMAND_HAND_LER": {
       "description": "enter any symbol to use command ",
-      "value": "",
-      "required": True
+      "value": ".",
+      "required": true
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
