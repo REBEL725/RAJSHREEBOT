@@ -56,21 +56,6 @@
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
     },
-    "REM_BG_API_KEY": {
-      "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
-      "value": "",
-      "required": false
-    },
-    "OCR_SPACE_API_KEY": {
-      "description": "Register an account on ocr.space to get this value(API key)....",
-      "value": "",
-      "required": false
-    },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
-      "value": "",
-      "required": false
-    },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
       "value": "",
@@ -102,16 +87,6 @@
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
       "value": ""
-    },
-    "CHROME_BIN": {
-      "description": "For Carbon.py. Leave as it is. ",
-      "value": "/app/.apt/usr/bin/google-chrome",
-      "required": false
-    },
-    "CHROME_DRIVER": {
-      "description": "For Carbon.py. Leave as it is. ",
-      "value": "/app/.chromedriver/bin/chromedriver",
-      "required": false
     },
     "RAJSHREE_SESSION": {
       "description": "create private group and added @MISS_QUEENS_BOT make admin then send /id tap to copy and paste  ",
