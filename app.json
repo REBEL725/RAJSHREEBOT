@@ -37,11 +37,6 @@
       "value": "https://telegra.ph/file/04394aec58ec3f6cb0e62.mp4",
       "required": false
     },
-    "HELP_PIC": {
-      "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/04394aec58ec3f6cb0e62.mp4",
-      "required": false 
-    },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
       "value": "🔰𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐘 𝐑𝐄𝐁𝐄𝐋𝐁𝐎𝐓🔰",
@@ -136,21 +131,6 @@
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
       "required": false
     },
-    "NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD": {
-      "description": " Set The Amount Of Buttons Displayed In Help Command default 8",
-      "value": "8",
-      "required": true
-    },
-    "NO_OF_COLUMS_DISPLAYED_IN_H_ME_CMD": {
-      "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 2",
-      "value": "2",
-      "required": true
-    },
-    "EMOJI_TO_DISPLAY_IN_HELP": {
-      "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💙",
-      "required": false
-    }, 
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Kolkata",
