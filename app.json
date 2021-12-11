@@ -57,11 +57,6 @@
       "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
       "required": false
     },
-    "PM_PERMIT_GROUP_ID": {
-      "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
-      "required": true
-    },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
@@ -95,18 +90,6 @@
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
     },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": ""
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
-    },
-    "PM_LOGGR_BOT_API_ID": {
-       "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": ""
-    }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com/@REBEL725/REBELBOT#main.py ",
       "value": ""
@@ -134,6 +117,16 @@
       "description": "For Carbon.py. Leave as it is. ",
       "value": "/app/.chromedriver/bin/chromedriver",
       "required": false
+    },
+    "RAJSHREE_SESSION": {
+      "description": "create private group and added @MISS_QUEENS_BOT make admin then send /id tap to copy and paste  ",
+      "value": "",
+      "required": True
+    },
+    "COMMAND_HAND_LER": {
+      "description": "enter any symbol to use command ",
+      "value": "",
+      "required": True
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
